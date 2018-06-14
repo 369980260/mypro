@@ -1,0 +1,9 @@
+09:18:12.877 INFO  com.selenium.day4.utils.DriverUtils1 29 initService - 获取browser类型，类型是：chrome
+09:18:12.893 INFO  com.selenium.day4.utils.DriverUtils1 31 initService - 获取配置文件中driver所在的路径和文件名，位置是：driver/chromedriver.exe
+09:18:17.487 INFO  com.selenium.day4.utils.WrappedRemoteWebDriver 35 findElement - ?通过partial link text方法找到请登录元素,已找到
+09:18:17.949 INFO  com.selenium.day4.utils.WrappedRemoteWebDriver 35 findElement - ?通过name方法找到username元素,已找到
+09:18:18.110 INFO  com.selenium.day4.utils.WrappedRemoteWebDriver 35 findElement - ?通过name方法找到password元素,已找到
+09:18:18.282 INFO  com.selenium.day4.utils.WrappedRemoteWebDriver 35 findElement - ?通过name方法找到submit元素,已找到
+09:18:18.685 INFO  com.selenium.day4.utils.WrappedRemoteWebDriver 35 findElement - ?通过xpath方法找到//div[contains(@class,'boxCenterList')]/div/p[1]元素,已找到
+09:18:18.717 INFO  com.selenium.day4.utils.DriverUtils1 73 quitDriver - driver退出！
+09:18:18.889 INFO  com.selenium.day4.utils.DriverUtils1 78 stopService - driver服务关闭！

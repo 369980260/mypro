@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="14277" started-at="2018-06-11T08:44:07Z" finished-at="2018-06-11T08:44:21Z">
+    <groups>
+    </groups>
+    <test name="Test2" duration-ms="14277" started-at="2018-06-11T08:44:07Z" finished-at="2018-06-11T08:44:21Z">
+      <class name="com.selenium.day4.test.TestLogin">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.selenium.day4.test.TestLogin@4a87761d]" name="beforeSuite" is-config="true" duration-ms="5336" started-at="2018-06-11T08:44:02Z" finished-at="2018-06-11T08:44:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:com.selenium.day4.test.TestLogin@4a87761d]" name="beforeMethod" is-config="true" duration-ms="8957" started-at="2018-06-11T08:44:07Z" finished-at="2018-06-11T08:44:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test()[pri:0, instance:com.selenium.day4.test.TestLogin@4a87761d]" name="test" duration-ms="4854" started-at="2018-06-11T08:44:16Z" finished-at="2018-06-11T08:44:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.selenium.day4.test.TestLogin@4a87761d]" name="afterMethod" is-config="true" duration-ms="287" started-at="2018-06-11T08:44:21Z" finished-at="2018-06-11T08:44:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.selenium.day4.test.TestLogin@4a87761d]" name="afterSuite" is-config="true" duration-ms="520" started-at="2018-06-11T08:44:22Z" finished-at="2018-06-11T08:44:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.selenium.day4.test.TestLogin -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,35 @@
+2018-06-14 at 09:14:49 CST INFO  com.selenium.day4.utils.DriverUtils1 29 initService - è·å–browserç±»å‹ï¼Œç±»å‹æ˜¯ï¼šchrome
+2018-06-14 at 09:14:49 CST INFO  com.selenium.day4.utils.DriverUtils1 31 initService - è·å–é…ç½®æ–‡ä»¶ä¸­driveræ‰€åœ¨çš„è·¯å¾„å’Œæ–‡ä»¶åï¼Œä½ç½®æ˜¯ï¼šdriver/chromedriver.exe
+2018-06-14 at 09:15:29 CST INFO  com.selenium.day4.utils.DriverUtils1 29 initService - è·å–browserç±»å‹ï¼Œç±»å‹æ˜¯ï¼šchrome
+2018-06-14 at 09:15:29 CST INFO  com.selenium.day4.utils.DriverUtils1 31 initService - è·å–é…ç½®æ–‡ä»¶ä¸­driveræ‰€åœ¨çš„è·¯å¾„å’Œæ–‡ä»¶åï¼Œä½ç½®æ˜¯ï¼šdriver/chromedriver.exe
+2018-06-14 at 09:15:42 CST INFO  com.selenium.day4.utils.WrappedRemoteWebDriver 38 findElement - Í¨é€šè¿‡partial link textæ–¹æ³•æ‰¾åˆ°è¯·ç™»å½•å…ƒç´ æ—¶å‘ç”Ÿå¼‚å¸¸ï¼ŒåŸå› ï¼šno such element: Unable to locate element: {"method":"partial link text","selector":"è¯·ç™»å½•"}
+  (Session info: chrome=65.0.3325.162)
+  (Driver info: chromedriver=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e),platform=Windows NT 6.1.7601 SP1 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'MYPC', ip: '172.16.200.155', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_74'
+Driver info: com.selenium.day4.utils.WrappedRemoteWebDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.37.543627 (63642262d9fb93..., userDataDir: C:\Users\ADMINI~1\AppData\L...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 65.0.3325.162, webStorageEnabled: true}
+Session ID: afb16631918d318f6c3c36b98204c585
+*** Element info: {Using=partial link text, value=è¯·ç™»å½•}
+2018-06-14 at 09:15:42 CST INFO  com.selenium.day4.utils.DriverUtils1 73 quitDriver - driveré€€å‡ºï¼
+2018-06-14 at 09:15:42 CST INFO  com.selenium.day4.utils.DriverUtils1 78 stopService - driveræœåŠ¡å…³é—­ï¼
+2018-06-14 at 09:16:30 CST INFO  com.selenium.day4.utils.DriverUtils1 29 initService - è·å–browserç±»å‹ï¼Œç±»å‹æ˜¯ï¼šchrome
+2018-06-14 at 09:16:30 CST INFO  com.selenium.day4.utils.DriverUtils1 31 initService - è·å–é…ç½®æ–‡ä»¶ä¸­driveræ‰€åœ¨çš„è·¯å¾„å’Œæ–‡ä»¶åï¼Œä½ç½®æ˜¯ï¼šdriver/chromedriver.exe
+2018-06-14 at 09:16:37 CST INFO  com.selenium.day4.utils.WrappedRemoteWebDriver 35 findElement - Í¨é€šè¿‡partial link textæ–¹æ³•æ‰¾åˆ°è¯·ç™»å½•å…ƒç´ ,å·²æ‰¾åˆ°
+2018-06-14 at 09:16:38 CST INFO  com.selenium.day4.utils.WrappedRemoteWebDriver 35 findElement - Í¨é€šè¿‡nameæ–¹æ³•æ‰¾åˆ°usernameå…ƒç´ ,å·²æ‰¾åˆ°
+2018-06-14 at 09:16:38 CST INFO  com.selenium.day4.utils.WrappedRemoteWebDriver 35 findElement - Í¨é€šè¿‡nameæ–¹æ³•æ‰¾åˆ°passwordå…ƒç´ ,å·²æ‰¾åˆ°
+2018-06-14 at 09:16:38 CST INFO  com.selenium.day4.utils.WrappedRemoteWebDriver 35 findElement - Í¨é€šè¿‡nameæ–¹æ³•æ‰¾åˆ°submitå…ƒç´ ,å·²æ‰¾åˆ°
+2018-06-14 at 09:16:39 CST INFO  com.selenium.day4.utils.WrappedRemoteWebDriver 35 findElement - Í¨é€šè¿‡xpathæ–¹æ³•æ‰¾åˆ°//div[contains(@class,'boxCenterList')]/div/p[1]å…ƒç´ ,å·²æ‰¾åˆ°
+2018-06-14 at 09:16:39 CST INFO  com.selenium.day4.utils.DriverUtils1 73 quitDriver - driveré€€å‡ºï¼
+2018-06-14 at 09:16:39 CST INFO  com.selenium.day4.utils.DriverUtils1 78 stopService - driveræœåŠ¡å…³é—­ï¼
+2018-06-14 at 09:18:12 CST INFO  com.selenium.day4.utils.DriverUtils1 29 initService - »ñÈ¡browserÀàĞÍ£¬ÀàĞÍÊÇ£ºchrome
+2018-06-14 at 09:18:12 CST INFO  com.selenium.day4.utils.DriverUtils1 31 initService - »ñÈ¡ÅäÖÃÎÄ¼şÖĞdriverËùÔÚµÄÂ·¾¶ºÍÎÄ¼şÃû£¬Î»ÖÃÊÇ£ºdriver/chromedriver.exe
+2018-06-14 at 09:18:17 CST INFO  com.selenium.day4.utils.WrappedRemoteWebDriver 35 findElement - ?Í¨¹ıpartial link text·½·¨ÕÒµ½ÇëµÇÂ¼ÔªËØ,ÒÑÕÒµ½
+2018-06-14 at 09:18:17 CST INFO  com.selenium.day4.utils.WrappedRemoteWebDriver 35 findElement - ?Í¨¹ıname·½·¨ÕÒµ½usernameÔªËØ,ÒÑÕÒµ½
+2018-06-14 at 09:18:18 CST INFO  com.selenium.day4.utils.WrappedRemoteWebDriver 35 findElement - ?Í¨¹ıname·½·¨ÕÒµ½passwordÔªËØ,ÒÑÕÒµ½
+2018-06-14 at 09:18:18 CST INFO  com.selenium.day4.utils.WrappedRemoteWebDriver 35 findElement - ?Í¨¹ıname·½·¨ÕÒµ½submitÔªËØ,ÒÑÕÒµ½
+2018-06-14 at 09:18:18 CST INFO  com.selenium.day4.utils.WrappedRemoteWebDriver 35 findElement - ?Í¨¹ıxpath·½·¨ÕÒµ½//div[contains(@class,'boxCenterList')]/div/p[1]ÔªËØ,ÒÑÕÒµ½
+2018-06-14 at 09:18:18 CST INFO  com.selenium.day4.utils.DriverUtils1 73 quitDriver - driverÍË³ö£¡
+2018-06-14 at 09:18:18 CST INFO  com.selenium.day4.utils.DriverUtils1 78 stopService - driver·şÎñ¹Ø±Õ£¡

@@ -1,0 +1,47 @@
+2018-06-11 at 14:24:43 CST INFO  com.selenium.day4.utils.DriverUtils1 29 initService - è·å–browserç±»å‹ï¼Œç±»å‹æ˜¯ï¼šchrome
+2018-06-11 at 14:24:43 CST INFO  com.selenium.day4.utils.DriverUtils1 31 initService - è·å–é…ç½®æ–‡ä»¶ä¸­driveræ‰€åœ¨çš„è·¯å¾„å’Œæ–‡ä»¶åï¼Œä½ç½®æ˜¯ï¼šdriver/chromedriver.exe
+2018-06-11 at 14:25:45 CST INFO  com.selenium.day4.utils.DriverUtils1 29 initService - è·å–browserç±»å‹ï¼Œç±»å‹æ˜¯ï¼šchrome
+2018-06-11 at 14:25:45 CST INFO  com.selenium.day4.utils.DriverUtils1 31 initService - è·å–é…ç½®æ–‡ä»¶ä¸­driveræ‰€åœ¨çš„è·¯å¾„å’Œæ–‡ä»¶åï¼Œä½ç½®æ˜¯ï¼šdriver/chromedriver.exe
+2018-06-11 at 14:26:31 CST INFO  com.selenium.day4.utils.WrappedRemoteWebDriver 35 findElement - Í¨é€šè¿‡partial link textæ–¹æ³•æ‰¾åˆ°è¯·ç™»å½•å…ƒç´ ,å·²æ‰¾åˆ°
+2018-06-11 at 14:26:32 CST INFO  com.selenium.day4.utils.WrappedRemoteWebDriver 35 findElement - Í¨é€šè¿‡nameæ–¹æ³•æ‰¾åˆ°usernameå…ƒç´ ,å·²æ‰¾åˆ°
+2018-06-11 at 14:26:33 CST INFO  com.selenium.day4.utils.WrappedRemoteWebDriver 35 findElement - Í¨é€šè¿‡nameæ–¹æ³•æ‰¾åˆ°passwordå…ƒç´ ,å·²æ‰¾åˆ°
+2018-06-11 at 14:26:33 CST INFO  com.selenium.day4.utils.WrappedRemoteWebDriver 35 findElement - Í¨é€šè¿‡nameæ–¹æ³•æ‰¾åˆ°submitå…ƒç´ ,å·²æ‰¾åˆ°
+2018-06-11 at 14:26:33 CST INFO  com.selenium.day4.utils.WrappedRemoteWebDriver 35 findElement - Í¨é€šè¿‡xpathæ–¹æ³•æ‰¾åˆ°//div[contains(@class,'boxCenterList')]/div/p[1]å…ƒç´ ,å·²æ‰¾åˆ°
+2018-06-11 at 14:26:33 CST INFO  com.selenium.day4.utils.DriverUtils1 73 quitDriver - driveré€€å‡ºï¼
+2018-06-11 at 14:26:34 CST INFO  com.selenium.day4.utils.DriverUtils1 78 stopService - driveræœåŠ¡å…³é—­ï¼
+2018-06-11 at 15:30:41 CST INFO  com.selenium.day4.utils.DriverUtils1 29 initService - è·å–browserç±»å‹ï¼Œç±»å‹æ˜¯ï¼šchrome
+2018-06-11 at 15:30:41 CST INFO  com.selenium.day4.utils.DriverUtils1 31 initService - è·å–é…ç½®æ–‡ä»¶ä¸­driveræ‰€åœ¨çš„è·¯å¾„å’Œæ–‡ä»¶åï¼Œä½ç½®æ˜¯ï¼šdriver/chromedriver.exe
+2018-06-11 at 15:30:56 CST INFO  com.selenium.day4.utils.WrappedRemoteWebDriver 35 findElement - Í¨é€šè¿‡partial link textæ–¹æ³•æ‰¾åˆ°è¯·ç™»å½•å…ƒç´ ,å·²æ‰¾åˆ°
+2018-06-11 at 15:30:57 CST INFO  com.selenium.day4.utils.WrappedRemoteWebDriver 35 findElement - Í¨é€šè¿‡nameæ–¹æ³•æ‰¾åˆ°usernameå…ƒç´ ,å·²æ‰¾åˆ°
+2018-06-11 at 15:30:57 CST INFO  com.selenium.day4.utils.WrappedRemoteWebDriver 35 findElement - Í¨é€šè¿‡nameæ–¹æ³•æ‰¾åˆ°passwordå…ƒç´ ,å·²æ‰¾åˆ°
+2018-06-11 at 15:30:58 CST INFO  com.selenium.day4.utils.WrappedRemoteWebDriver 35 findElement - Í¨é€šè¿‡nameæ–¹æ³•æ‰¾åˆ°submitå…ƒç´ ,å·²æ‰¾åˆ°
+2018-06-11 at 15:30:58 CST INFO  com.selenium.day4.utils.WrappedRemoteWebDriver 35 findElement - Í¨é€šè¿‡xpathæ–¹æ³•æ‰¾åˆ°//div[contains(@class,'boxCenterList')]/div/p[1]å…ƒç´ ,å·²æ‰¾åˆ°
+2018-06-11 at 15:30:58 CST INFO  com.selenium.day4.utils.DriverUtils1 73 quitDriver - driveré€€å‡ºï¼
+2018-06-11 at 15:30:58 CST INFO  com.selenium.day4.utils.DriverUtils1 78 stopService - driveræœåŠ¡å…³é—­ï¼
+2018-06-11 at 16:44:05 CST INFO  com.selenium.day4.utils.DriverUtils1 29 initService - è·å–browserç±»å‹ï¼Œç±»å‹æ˜¯ï¼šchrome
+2018-06-11 at 16:44:05 CST INFO  com.selenium.day4.utils.DriverUtils1 31 initService - è·å–é…ç½®æ–‡ä»¶ä¸­driveræ‰€åœ¨çš„è·¯å¾„å’Œæ–‡ä»¶åï¼Œä½ç½®æ˜¯ï¼šdriver/chromedriver.exe
+2018-06-11 at 16:44:19 CST INFO  com.selenium.day4.utils.WrappedRemoteWebDriver 35 findElement - Í¨é€šè¿‡partial link textæ–¹æ³•æ‰¾åˆ°è¯·ç™»å½•å…ƒç´ ,å·²æ‰¾åˆ°
+2018-06-11 at 16:44:20 CST INFO  com.selenium.day4.utils.WrappedRemoteWebDriver 35 findElement - Í¨é€šè¿‡nameæ–¹æ³•æ‰¾åˆ°usernameå…ƒç´ ,å·²æ‰¾åˆ°
+2018-06-11 at 16:44:20 CST INFO  com.selenium.day4.utils.WrappedRemoteWebDriver 35 findElement - Í¨é€šè¿‡nameæ–¹æ³•æ‰¾åˆ°passwordå…ƒç´ ,å·²æ‰¾åˆ°
+2018-06-11 at 16:44:21 CST INFO  com.selenium.day4.utils.WrappedRemoteWebDriver 35 findElement - Í¨é€šè¿‡nameæ–¹æ³•æ‰¾åˆ°submitå…ƒç´ ,å·²æ‰¾åˆ°
+2018-06-11 at 16:44:21 CST INFO  com.selenium.day4.utils.WrappedRemoteWebDriver 35 findElement - Í¨é€šè¿‡xpathæ–¹æ³•æ‰¾åˆ°//div[contains(@class,'boxCenterList')]/div/p[1]å…ƒç´ ,å·²æ‰¾åˆ°
+2018-06-11 at 16:44:21 CST INFO  com.selenium.day4.utils.DriverUtils1 73 quitDriver - driveré€€å‡ºï¼
+2018-06-11 at 16:44:22 CST INFO  com.selenium.day4.utils.DriverUtils1 78 stopService - driveræœåŠ¡å…³é—­ï¼
+2018-06-11 at 16:46:55 CST INFO  com.selenium.day4.utils.DriverUtils1 29 initService - »ñÈ¡browserÀàĞÍ£¬ÀàĞÍÊÇ£ºchrome
+2018-06-11 at 16:46:55 CST INFO  com.selenium.day4.utils.DriverUtils1 31 initService - »ñÈ¡ÅäÖÃÎÄ¼şÖĞdriverËùÔÚµÄÂ·¾¶ºÍÎÄ¼şÃû£¬Î»ÖÃÊÇ£ºdriver/chromedriver.exe
+2018-06-11 at 16:47:01 CST INFO  com.selenium.day4.utils.WrappedRemoteWebDriver 35 findElement - ?Í¨¹ıpartial link text·½·¨ÕÒµ½ÇëµÇÂ¼ÔªËØ,ÒÑÕÒµ½
+2018-06-11 at 16:47:01 CST INFO  com.selenium.day4.utils.WrappedRemoteWebDriver 35 findElement - ?Í¨¹ıname·½·¨ÕÒµ½usernameÔªËØ,ÒÑÕÒµ½
+2018-06-11 at 16:47:02 CST INFO  com.selenium.day4.utils.WrappedRemoteWebDriver 35 findElement - ?Í¨¹ıname·½·¨ÕÒµ½passwordÔªËØ,ÒÑÕÒµ½
+2018-06-11 at 16:47:02 CST INFO  com.selenium.day4.utils.WrappedRemoteWebDriver 35 findElement - ?Í¨¹ıname·½·¨ÕÒµ½submitÔªËØ,ÒÑÕÒµ½
+2018-06-11 at 16:47:02 CST INFO  com.selenium.day4.utils.WrappedRemoteWebDriver 35 findElement - ?Í¨¹ıxpath·½·¨ÕÒµ½//div[contains(@class,'boxCenterList')]/div/p[1]ÔªËØ,ÒÑÕÒµ½
+2018-06-11 at 16:47:02 CST INFO  com.selenium.day4.utils.DriverUtils1 73 quitDriver - driverÍË³ö£¡
+2018-06-11 at 16:47:02 CST INFO  com.selenium.day4.utils.DriverUtils1 78 stopService - driver·şÎñ¹Ø±Õ£¡
+2018-06-11 at 16:47:47 CST INFO  com.selenium.day4.utils.DriverUtils1 29 initService - »ñÈ¡browserÀàĞÍ£¬ÀàĞÍÊÇ£ºchrome
+2018-06-11 at 16:47:47 CST INFO  com.selenium.day4.utils.DriverUtils1 31 initService - »ñÈ¡ÅäÖÃÎÄ¼şÖĞdriverËùÔÚµÄÂ·¾¶ºÍÎÄ¼şÃû£¬Î»ÖÃÊÇ£ºdriver/chromedriver.exe
+2018-06-11 at 16:47:52 CST INFO  com.selenium.day4.utils.WrappedRemoteWebDriver 35 findElement - ?Í¨¹ıpartial link text·½·¨ÕÒµ½ÇëµÇÂ¼ÔªËØ,ÒÑÕÒµ½
+2018-06-11 at 16:47:52 CST INFO  com.selenium.day4.utils.WrappedRemoteWebDriver 35 findElement - ?Í¨¹ıname·½·¨ÕÒµ½usernameÔªËØ,ÒÑÕÒµ½
+2018-06-11 at 16:47:52 CST INFO  com.selenium.day4.utils.WrappedRemoteWebDriver 35 findElement - ?Í¨¹ıname·½·¨ÕÒµ½passwordÔªËØ,ÒÑÕÒµ½
+2018-06-11 at 16:47:53 CST INFO  com.selenium.day4.utils.WrappedRemoteWebDriver 35 findElement - ?Í¨¹ıname·½·¨ÕÒµ½submitÔªËØ,ÒÑÕÒµ½
+2018-06-11 at 16:47:58 CST INFO  com.selenium.day4.utils.WrappedRemoteWebDriver 35 findElement - ?Í¨¹ıxpath·½·¨ÕÒµ½//div[contains(@class,'boxCenterList')]/div/p[1]ÔªËØ,ÒÑÕÒµ½
+2018-06-11 at 16:47:58 CST INFO  com.selenium.day4.utils.DriverUtils1 73 quitDriver - driverÍË³ö£¡
+2018-06-11 at 16:47:58 CST INFO  com.selenium.day4.utils.DriverUtils1 78 stopService - driver·şÎñ¹Ø±Õ£¡
