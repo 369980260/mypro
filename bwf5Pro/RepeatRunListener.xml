@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+  
+<suite name="Suite" parallel="false">
+<listeners>
+ <listener class-name="com.selenium.day5.screenShot.TestScreenShotListener"></listener>
+ <listener class-name="com.selenium.day5.reRunTest.ReRunListener"></listener>
+</listeners>
+ <test name="Test2">
+    <classes>
+      <class name="com.selenium.day4.test.TestLogin"/>
+    </classes>
+  </test> <!-- Test --> 
+</suite> <!-- Suite -->
